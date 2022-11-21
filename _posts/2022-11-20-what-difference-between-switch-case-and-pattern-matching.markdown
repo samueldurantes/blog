@@ -38,7 +38,7 @@ Both codes just check if the value `x` is equal to 1.
 
 ## Pattern Matching
 
-While pattern matching has exhaustive checks (in programming languages typed) and nesting.
+While pattern matching has exhaustive checks (in typed programming languages) and nesting.
 
 #### Exhaustive check
 
